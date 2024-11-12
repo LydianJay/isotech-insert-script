@@ -1,3 +1,5 @@
 *.csv
 *.xlsl
 *.mdb
+
+/.ipynb_checkpoints
